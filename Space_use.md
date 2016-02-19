@@ -4,7 +4,7 @@ This space serves to provide increased STEM access to the Goldsmiths student bod
 
 As a shared space, it’s very important we set up some ground rules and user polices so this space can support the community. What follows is a list of policies and guidelines for using this space, the gear in it and how we treat each other. 
 
-This space isn’t just a lab where you drop in and out and someone else builds your project. That’s not the way of the Jedi. We are a community where we all hack together to create new frontiers at the edges of what is possible in our field. Give as much as you get. If you learn to solder, why not teach your skills to those around you. This process will build up a healthy, strong community that supports growth, innovation and shared knowledge. 
+This space isn’t just a lab where you drop in and out and someone else builds your project. That’s not the way of the Jedi. We are a community where we all hack together to create new frontiers at the edges of what is possible in our field. Give as much as you get. If you learn to solder, why not teach your skills to those around you? This process builds up a healthy, strong community that supports growth, innovation and shared knowledge. 
 
 **Together we know more.**
 
