@@ -74,8 +74,11 @@ Below are guidelines for each item:
 	Until further notice, this piece of gear is for researchers only. Soon this will change. 
 
 * Wood saw
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. 
 
 * Jigsaw 
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. You are also required to bring your own blade. 
+
 
 ## General Skills: 
 Here are some really useful things to know about as you start your hacking journey: 
