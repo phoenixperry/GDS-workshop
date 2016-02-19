@@ -12,7 +12,7 @@ This space isn’t just a lab where you drop in and out and someone else builds 
 This room, the former GDS, is now the temporary home to The Goldsmiths Hatchlab Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future of the lab and it’s up to us to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of our community.   
 
 ## Participate! 
-Access to this space comes in two forms. Unlimited member access and non-member limited access. Membership is a privilege and not guaranteed to all.  
+Access to this space comes in two forms. Unlimited member access and non-member limited access. Membership not guaranteed to all.  
 
 ### Training Sessions to become a member
 Access to this space is a privilege, not a right and it can be revoked if a user violates the polices laid out for the space. 
