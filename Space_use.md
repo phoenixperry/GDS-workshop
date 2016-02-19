@@ -78,12 +78,13 @@ Below are guidelines for each item:
 * Jigsaw 
 
 ## General Skills: 
-Here are some really useful things to know about as you start your hacking journey. 
-*ohms law*
-*Resistors*
-*Capacitors*
-*Transistors*
-*Kirchhoff’s Law*
+Here are some really useful things to know about as you start your hacking journey: 
+* Ohm’s Law 
+* Resistors
+* Capacitors 
+* Transistors 
+* Kirchhoff’s Law
+
 [https://en.wikipedia.org/wiki/Kirchhoff%27s\_circuit\_laws][7]
 
 ## Specific Resources for members 
