@@ -14,21 +14,61 @@ This room, the former GDS, is now the temporary home to the Hatchlab Hackerspace
 ## Participate! 
 
 ### Training Sessions
-To get access to this space, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatchlab and keep an eye on your email. 
+To get unsupervised access to this space and become a full member, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatchlab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email 
 
-### Craft Nights are also another way to get into the space. 
-Thursdays from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hacker, Phoenix Perry , will be around hacking and sharing her knowlege and everyone is encouraged to join and bring something awesome to work on. 
+### Craft Nights  
+Thursdays from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hacker, Phoenix Perry , will be around hacking and sharing her knowlege and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
 
-There will be mini-skills bootcamps, famous hackers visiting unannounced and general impromptu fun. The only way to know what’s happening is to turn up and take part. 
+There will be mini-skills bootcamps, genius hackers visiting unannounced and general impromptu fun. The only way to know what’s happening is to turn up and take part. 
 
 There will be music! 
 
 There will be science! 
 
-There might even be movies. 
+And yes, there will be magic. 
 
-Bring snacks, bring friends and prepare to build cool stuff! Get over here for Craft Night! What are you waiting for? 
+Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
 
-### 
+## Specific Resources for full members only 
+In the space we have the following items for hacking: 
+* soldering irons
+* wire strippers 
+* wire cutters 
+* solder 
+* perf board 
+* solder suckers 
+* heat mats
+* capacitors
+* resistors 
+* potentiometers 
+* jumper wires 
+* crocodile clips 
+* multimeters 
+* scissors 
+* needle nose pliers
+* electrical tape 
+* masking tape 
+* strip board 
+* battery clips 
+* transistors 
+* safety googles 
+* ear protection 
+* LEDs
+* third hands w/lights 
+* solder wick 
+* switches 
+* soldering iron tips 
+* power supplies  
+
+In the space we have the following items for woodworking: 
+* power saw 
+* jig saw 
+* wrenches 
+* drills 
+* hammers 
+* basic tools like screwdrivers 
+* a cutting table 
+* a vacuum  
+	 
 
 
