@@ -18,13 +18,6 @@ Access to this space is a privilege, not a right and it can be revoked if a user
 
 To get unsupervised access to this space and become a full member, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatchlab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email p.perry@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. 
 
-#### Responsibility
-Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term. If you see a fellow member not using a piece of gear correctly, help them out and inform them on proper usage. Below are guidelines for each item: 
-*Soldering
-First off, this is how to solder: 
-[http://makezine.com/2011/01/06/skill-set-soldering/][1]
-If you need a soldering iron, you are required to turn the iron off when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
-
 ### Craft Nights  
 Thursdays from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hacker, Phoenix Perry , will be around hacking and sharing her knowlege and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
 
@@ -37,6 +30,41 @@ There will be science!
 And yes, there will be magic. 
 
 Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
+
+#### Responsibility
+Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term. If you see a fellow member not using a piece of gear correctly, help them out and inform them on proper usage. If you see someone disrespecting the space, know it’s hurting everyone. There are no new budgets to buy new gear. Everyone will lose out. Also, if a member of staff sees you destroy a piece of gear, you will be required to replace it. 
+
+Below are guidelines for each item: 
+*Wire strippers*
+This is how to cut wire and use the strippers: 
+[https://www.youtube.com/watch?v=E6Nyzq3CzlI][1]
+
+*Soldering
+First off, this is how to solder: 
+[https://www.youtube.com/watch?v=QKbJxytERvg][2]
+  
+More information on getting setup, the right iron temp and how to set up here: 
+[\[http://makezine.com/2011/01/06/skill-set-soldering/]][3]
+
+If you need a soldering iron, you are required to **turn the iron off** when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
+
+Did it not work? Check out desoldering to try it again! 
+
+*Desoldering*
+This is how to use a solder sucker and solder wick: 
+[https://www.youtube.com/watch?v=N\_dvf45hN6Y][4]	
+
+*Woodsaw*
+*Jigsaw*
+
+## General Skills: 
+Here are some really useful things to know about as you start your hacking journey. 
+*ohms law*
+*Resistors*
+*Capacitors*
+*Transistors*
+*Kirchhoff’s Law*
+[https://en.wikipedia.org/wiki/Kirchhoff%27s\_circuit\_laws][5]
 
 ## Specific Resources for members 
 In the space we have the following items for hacking: 
@@ -79,8 +107,12 @@ In the space we have the following items for woodworking:
 * a cutting table 
 * a vacuum  
 
+## Other resources 
 
 
 
-
-[1]:	http://makezine.com/2011/01/06/skill-set-soldering/
+[1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
+[2]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
+[3]:	https://learn.adafruit.com/adafruit-guide-excellent-soldering/preparation
+[4]:	https://www.youtube.com/watch?v=N_dvf45hN6Y
+[5]:	https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws
