@@ -35,40 +35,43 @@ Bring snacks, bring friends and prepare to build stuff. Get over here for Craft 
 Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. If you see a fellow member not using a piece of gear correctly, help them out and inform them on proper usage. If you see someone disrespecting the space, know it’s hurting everyone. There are no new budgets to buy new gear. Everyone will lose out. Also, if a member of staff sees you destroy a piece of gear, you will be required to replace it. 
 
 Below are guidelines for each item: 
-*Wire strippers*
-This is how to cut wire and use the strippers: 
-[https://www.youtube.com/watch?v=E6Nyzq3CzlI][1]
+* Wire strippers 
+	This is how to cut wire and use the strippers: 
+	[https://www.youtube.com/watch?v=E6Nyzq3CzlI][1]
 
-*Soldering
-First off, this is how to solder: 
-[https://www.youtube.com/watch?v=QKbJxytERvg][2]
-  
-More information on getting setup, the right iron temp and how to set up here: 
-[\[http://makezine.com/2011/01/06/skill-set-soldering/]][3]
+* Soldering 
+	First off, this is how to solder: 
+	[https://www.youtube.com/watch?v=QKbJxytERvg][2]
+	  
+	More information on getting setup, the right iron temp and how to set up here: 
+	[\[http://makezine.com/2011/01/06/skill-set-soldering/]][3]
 
-If you need a soldering iron, you are required to **turn the iron off** when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
+	If you need a soldering iron, you are required to **turn the iron off** when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
 
-Did it not work? Check out desoldering to try it again! 
+	Did it not work? Check out desoldering to try it again! 
 
-*Desoldering*
-This is how to use a solder sucker and solder wick: 
-[https://www.youtube.com/watch?v=N\_dvf45hN6Y][4]	
-*3D Printing*
-Wanna use the 3D Printer? Awesome! Now before you get crazy know that **if you break the printer by misusing it, you have to fix it yourself or pay to have it repaired. **
-  
-Only members have access to these machines. 
-  
-To review how to print or if you get stuck check out this guide: 
-[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][5]
+* Desoldering 
 
-To book a slot on the printers go here:  
-[TODO: SET UP YOUCANBOOKME][6]
+	This is how to use a solder sucker and solder wick: 
+	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][4]	
 
-*Laser Cutting*
-Until further notice, this piece of gear is for researchers only. Soon this will change. 
+* 3D Printing 
+	Wanna use the 3D Printer? Awesome! Now before you get crazy know that **if you break the printer by misusing it, you have to fix it yourself or pay to have it repaired. **
+	  
+	Only members have access to these machines. 
+	  
+	To review how to print or if you get stuck check out this guide: 
+	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][5]
 
-*Woodsaw*
-*Jigsaw*
+	To book a slot on the printers go here:  
+	[TODO: SET UP YOUCANBOOKME][6]
+
+* Laser Cutter 
+	Until further notice, this piece of gear is for researchers only. Soon this will change. 
+
+* Wood saw
+
+* Jigsaw 
 
 ## General Skills: 
 Here are some really useful things to know about as you start your hacking journey. 
