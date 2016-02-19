@@ -44,7 +44,7 @@ Below are guidelines for each item:
 	[https://www.youtube.com/watch?v=QKbJxytERvg][2]
 	  
 	More information on getting setup, the right iron temp and how to set up here: 
-	[\[http://makezine.com/2011/01/06/skill-set-soldering/]][3]
+	[http://makezine.com/2011/01/06/skill-set-soldering/][3]
 
 	If you need a soldering iron, you are required to **turn the iron off** when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
 
