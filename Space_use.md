@@ -53,6 +53,19 @@ Did it not work? Check out desoldering to try it again!
 *Desoldering*
 This is how to use a solder sucker and solder wick: 
 [https://www.youtube.com/watch?v=N\_dvf45hN6Y][4]	
+*3D Printing*
+Wanna use the 3D Printer? Awesome! Now before you get crazy know that **if you break the printer by misusing it, you have to fix it yourself or pay to have it repaired. **
+  
+Only members have access to these machines. 
+  
+To review how to print or if you get stuck check out this guide: 
+[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][5]
+
+To book a slot on the printers go here:  
+[TODO: SET UP YOUCANBOOKME][6]
+
+*Laser Cutting*
+Until further notice, this piece of gear is for researchers only. Soon this will change. 
 
 *Woodsaw*
 *Jigsaw*
@@ -64,7 +77,7 @@ Here are some really useful things to know about as you start your hacking journ
 *Capacitors*
 *Transistors*
 *Kirchhoff’s Law*
-[https://en.wikipedia.org/wiki/Kirchhoff%27s\_circuit\_laws][5]
+[https://en.wikipedia.org/wiki/Kirchhoff%27s\_circuit\_laws][7]
 
 ## Specific Resources for members 
 In the space we have the following items for hacking: 
@@ -115,4 +128,6 @@ In the space we have the following items for woodworking:
 [2]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
 [3]:	https://learn.adafruit.com/adafruit-guide-excellent-soldering/preparation
 [4]:	https://www.youtube.com/watch?v=N_dvf45hN6Y
-[5]:	https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws
+[5]:	http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials
+[6]:	%20
+[7]:	https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws
