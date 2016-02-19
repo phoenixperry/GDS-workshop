@@ -20,7 +20,7 @@ Access to this space is a privilege, not a right and it can be revoked if a user
 To get unsupervised access to this space and become a full member, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatchlab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email p.perry@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. 
 
 ### Craft Nights  
-Thursdays from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hackers will be around hacking and sharing her knowledge and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
+Thursdays from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hackers will be around hacking and sharing knowledge and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
 
 There will be mini-skills bootcamps, genius hackers visiting unannounced and general impromptu fun. The only way to know what’s happening is to turn up and take part. 
 
