@@ -9,7 +9,7 @@ This space isn’t just a lab where you drop in and out and someone else builds 
 **Together we know more.**
 
 ## About the space: 
-This room, the former GDS, is now the temporary home to The Goldsmiths Hatchlab Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future of the lab and it’s up to us all to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of the Goldsmiths community.   
+This room, the former GDS, is now the temporary home to The Goldsmiths Hatchlab Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future of the lab and it’s up to us to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of our community.   
 
 ## Participate! 
 
