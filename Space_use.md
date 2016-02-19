@@ -71,12 +71,15 @@ Below are guidelines for each item:
 	[TODO: SET UP YOUCANBOOKME][6]
 
 * Laser Cutter 
+
 	Until further notice, this piece of gear is for researchers only. Soon this will change. 
 
 * Wood saw
+
 	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. 
 
 * Jigsaw 
+
 	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. You are also required to bring your own blade. 
 
 
