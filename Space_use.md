@@ -6,15 +6,24 @@ As a shared space, it’s very important we set up some ground rules and user po
 
 This space isn’t just a lab where you drop in and out and someone else builds your project. That’s not the way of the Jedi. We are a community where we all hack together to create new frontiers at the edges of what is possible in our field. Give as much as you get. If you learn to solder, why not teach your skills to those around you. This process will build up a healthy, strong community that supports growth, innovation and shared knowledge. 
 
-Together we know more. 
+**Together we know more.**
 
 ## About the space: 
 This room, the former GDS, is now the temporary home to the Hatchlab Hackerspace. Eventually, we will be opening a much larger facility but while construction is occurring this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shape the future of the lab and it’s up to us all to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of the Goldsmiths community.   
 
 ## Participate! 
 
-### Training Sessions
-To get unsupervised access to this space and become a full member, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatchlab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email 
+### Training Sessions to become a member
+Access to this space is a privilege, not a right and it can be revoked if a user violates the polices laid out for the space. 
+
+To get unsupervised access to this space and become a full member, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatchlab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email p.perry@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. 
+
+#### Responsibility
+Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term. If you see a fellow member not using a piece of gear correctly, help them out and inform them on proper usage. Below are guidelines for each item: 
+*Soldering
+First off, this is how to solder: 
+[http://makezine.com/2011/01/06/skill-set-soldering/][1]
+If you need a soldering iron, you are required to turn the iron off when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
 
 ### Craft Nights  
 Thursdays from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hacker, Phoenix Perry , will be around hacking and sharing her knowlege and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
@@ -29,7 +38,7 @@ And yes, there will be magic.
 
 Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
 
-## Specific Resources for full members only 
+## Specific Resources for members 
 In the space we have the following items for hacking: 
 * soldering irons
 * wire strippers 
@@ -69,6 +78,9 @@ In the space we have the following items for woodworking:
 * basic tools like screwdrivers 
 * a cutting table 
 * a vacuum  
-	 
 
 
+
+
+
+[1]:	http://makezine.com/2011/01/06/skill-set-soldering/
