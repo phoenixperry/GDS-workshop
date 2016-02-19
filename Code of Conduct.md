@@ -1,5 +1,4 @@
-Hacker code of conduct coming 
-
+# Code of Conduct 
 One of the goals of the Hactchlab is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, socioeconomic status, age, level of experience, personal appearance, ethnicity, religion or philosophy.
 
 The lab is a safe space where you can express yourself without fear of judgment or harassment. All participants and visitors are expected to treat other participants, visitors, staff, and the general public with respect. Under the umbrella of respect, we expect all participants be mindful of their speech and behaviors both in person and on social media. Particularly, we want to remind participants and visitors to refrain from making assumptions about another's identity, experience, and preferred pronouns.
