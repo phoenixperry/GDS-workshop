@@ -36,10 +36,12 @@ Equipment in the space is precious. Respect it. Misuse of gear will result in su
 
 Below are guidelines for each item: 
 * Wire strippers 
+
 	This is how to cut wire and use the strippers: 
 	[https://www.youtube.com/watch?v=E6Nyzq3CzlI][1]
 
 * Soldering 
+
 	First off, this is how to solder: 
 	[https://www.youtube.com/watch?v=QKbJxytERvg][2]
 	  
@@ -56,6 +58,7 @@ Below are guidelines for each item:
 	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][4]	
 
 * 3D Printing 
+
 	Wanna use the 3D Printer? Awesome! Now before you get crazy know that **if you break the printer by misusing it, you have to fix it yourself or pay to have it repaired. **
 	  
 	Only members have access to these machines. 
