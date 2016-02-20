@@ -35,7 +35,9 @@ And yes, there will be magic.
 Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
 
 #### Responsibility
-Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. **Isf you destroy a piece of gear, you will be required to replace it. **
+Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. 
+
+**If you destroy a piece of gear, you will be required to replace it. **
 
 Below are guidelines for each item:
 
