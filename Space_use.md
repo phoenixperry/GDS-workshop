@@ -167,7 +167,7 @@ Here are some really useful things to know about as you start your hacking journ
 * Kirchhoff’s Law
 	[https://www.youtube.com/watch?v=WBfAEeEzDlg][18]
 
-## Places to buy hacking materials: 
+#### Places to buy hacking materials: 
 [http://uk.rs-online.com/web/][19]
 
 [http://www.maplin.co.uk][20]
@@ -180,7 +180,7 @@ Here are some really useful things to know about as you start your hacking journ
 
 [http://uk.farnell.com/][24]
 
-## Other resources 
+#### Other resources 
 Arduino Basics 
 [https://www.youtube.com/watch?v=pnf8ojsK6S4][25]
 
@@ -209,7 +209,7 @@ Printing boards in the UK guide:
 Open Source Hardware Association 
 [http://www.oshwa.org/][33]
 
-## Great YouTube Channels 
+#### Great YouTube Channels 
 Great Scott 
 [https://www.youtube.com/user/greatscottlab][34]
 
@@ -219,11 +219,11 @@ Ada Fruit
 Make Magazine 
 [https://www.youtube.com/results?search\_query=make+magazine][36]
 
-## Online classes 
+#### Online classes 
 NYU ITP’s Physical Computing Course 
 [https://itp.nyu.edu/physcomp/][37]
 
-## Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment or are Arduino like 
+#### Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment or are Arduino like 
 Teensy (Wearables, small form use cases, sound) 
 [https://www.pjrc.com/teensy/][38]
 
@@ -242,7 +242,7 @@ Photon (wifi)
 Pinoccio (mesh networking) 
 [https://pinocc.io/][43]
 
-## Small Computing Platforms 
+#### Small Computing Platforms 
 Beagle Bone
 [http://beagleboard.org/bone][44]
 
@@ -255,7 +255,7 @@ Udoo
 Intel Edison 
 [https://www.sparkfun.com/products/13024][47]
 
-## What the heck is the difference between a small computing platform and a micro controller? 
+#### What the heck is the difference between a small computing platform and a micro controller? 
 
 The small computers are computers. They are far more advanced, have much larger memories, USP ports, video displays and usually their own GPIO (general purpose input/output) pins you can program that will give you control over sensors and actuators. 
 
