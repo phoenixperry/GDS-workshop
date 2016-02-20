@@ -35,19 +35,24 @@ Bring snacks, bring friends and prepare to build stuff. Get over here for Craft 
 #### Responsibility
 Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. If you see a fellow member not using a piece of gear correctly, help them out and inform them on proper usage. If you see someone disrespecting the space, know it’s hurting everyone. There are no new budgets to buy more gear. Everyone loses when something is damaged. Also, if a member of staff sees you destroy a piece of gear, you will be required to replace it. 
 
-Below are guidelines for each item: 
+Below are guidelines for each item:
+
 * Wire strippers 
 
 	This is how to cut wire and use the strippers: 
 	[https://www.youtube.com/watch?v=E6Nyzq3CzlI][1]
 
+* Handtools 
+
+	[https://www.youtube.com/watch?v=J-1phA\_vKDg&list=PLjF7R1fz\_OOU08\_hRcayfVZSmTpBCGJbL][2] 
+
 * Soldering 
 
 	First off, this is how to solder: 
-	[https://www.youtube.com/watch?v=QKbJxytERvg][2]
+	[https://www.youtube.com/watch?v=QKbJxytERvg][3]
 	  
 	More information on getting setup, the right iron temp and how to set up here: 
-	[http://makezine.com/2011/01/06/skill-set-soldering/][3]
+	[http://makezine.com/2011/01/06/skill-set-soldering/][4]
 
 	If you need a soldering iron, you are required to **turn the iron off** when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
 
@@ -56,42 +61,63 @@ Below are guidelines for each item:
 * Desoldering 
 
 	This is how to use a solder sucker and solder wick: 
-	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][4]	
+	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][5]	
+
+* Multimeter 
+	[https://www.youtube.com/watch?v=rPGoMbVSUu8][6]
+
+* Oscilloscope
+	[https://www.youtube.com/watch?v=ThrK2spjrLs][7] 
 
 * 3D Printing 
 
-	Wanna use the 3D Printer? Awesome! Now before you get crazy know that **if you break the printer by misusing it, you have to fix it yourself or pay to have it repaired. **
+	Wanna use the 3D Printer? Awesome! Now before you get crazy know that you are responsible for making sure it works when you are finished with it for the next user. 
+
+	**If you break the printer by misusing it, you have to fix it yourself or pay to have it repaired. **
 	  
 	Only members have access to these machines. 
 	  
 	To review how to print or if you get stuck check out this guide: 
-	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][5]
+	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][8]
 
 	To book a slot on the printers go here:  
-	[TODO: SET UP YOUCANBOOKME][6]
+	[TODO: SET UP YOUCANBOOKME][9]
 
 * Laser Cutter 
 
 	Until further notice, this piece of gear is for researchers only. Soon this will change. 
 
-* Wood saw
+* Circular Woodsaw
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. 
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. Use only at your own risk after proper training. 
+
+	Part 1
+	[https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][10]
+
+	Part 2 
+	[https://www.youtube.com/watch?v=y0IcTl8D91Q][11]
 
 * Jigsaw 
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. You are also required to bring your own blade. 
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. You are also required to bring your own blade. Use only at your own risk after proper training. 
+
+	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][12]
 
 
 ## General Skills: 
 Here are some really useful things to know about as you start your hacking journey: 
 * Ohm’s Law 
+	[https://www.youtube.com/watch?v=-mHLvtGjum4][13]
+* Breadboards 
+	[https://www.youtube.com/watch?v=w0c3t0fJhXU][14]
 * Resistors
+	[https://www.youtube.com/watch?v=VPVoY1QROMg][15]
 * Capacitors 
+	[https://www.youtube.com/watch?v=ZYH9dGl4gUE][16]
 * Transistors 
+	[https://www.youtube.com/watch?v=-td7YT-Pums][17]
 * Kirchhoff’s Law
-
-[https://en.wikipedia.org/wiki/Kirchhoff%27s\_circuit\_laws][7]
+	[https://www.youtube.com/watch?v=WBfAEeEzDlg][18]
 
 ## Specific Resources for members 
 In the space we have the following items for hacking: 
@@ -123,6 +149,8 @@ In the space we have the following items for hacking:
 * switches 
 * soldering iron tips 
 * power supplies  
+* Oscilloscope
+* Variable Power Supply  
 
 In the space we have the following items for woodworking: 
 * power saw 
@@ -133,15 +161,75 @@ In the space we have the following items for woodworking:
 * basic tools like screwdrivers 
 * a cutting table 
 * a vacuum  
+* ## Places to buy hacking materials: 
+[http://uk.rs-online.com/web/][19]
+
+[http://www.maplin.co.uk][20]
+
+[http://rapidonline.com][21]
+
+[http://www.gearbest.com][22]
+  
+[http://oomlout.co.uk/][23]
+
+[http://uk.farnell.com/][24]
 
 ## Other resources 
+Arduino Basics 
+[https://www.youtube.com/watch?v=pnf8ojsK6S4][25]
 
+Make’s Getting Started with Electronics 
+[http://cdn.makezine.com/make/shed/make\_electronics\_1.pdf][26]
 
+Spark fun tutorials 
+[https://www.sparkfun.com/tutorials/][27]
+
+Learn from Adafruit
+[https://learn.adafruit.com/][28]
+
+Raspberry Pi Documentation 
+[https://www.raspberrypi.org/documentation][29]
+
+The Bible, otherwise know as: 
+The Art of Electronics 
+[http://artofelectronics.net/][30]
+
+Want to make your own circuit board? 
+[https://oshpark.com/][31]
+
+Printing boards in the UK guide: 
+  
+[http://boldport.blogspot.co.uk/2014/02/so-you-want-to-manufacture-your-printed.html ][32] 
 
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
-[2]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
-[3]:	https://learn.adafruit.com/adafruit-guide-excellent-soldering/preparation
-[4]:	https://www.youtube.com/watch?v=N_dvf45hN6Y
-[5]:	http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials
-[6]:	%20
-[7]:	https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws
+[2]:	https://www.youtube.com/watch?v=J-1phA_vKDg&list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL
+[3]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
+[4]:	https://learn.adafruit.com/adafruit-guide-excellent-soldering/preparation
+[5]:	https://www.youtube.com/watch?v=N_dvf45hN6Y
+[6]:	https://www.youtube.com/watch?v=rPGoMbVSUu8 "multimter"
+[7]:	https://www.youtube.com/watch?v=ThrK2spjrLs
+[8]:	http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials
+[9]:	%20
+[10]:	https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM
+[11]:	https://www.youtube.com/watch?v=y0IcTl8D91Q
+[12]:	https://youtu.be/x287U_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM "How to use a jig saw "
+[13]:	https://www.youtube.com/watch?v=-mHLvtGjum4
+[14]:	https://www.youtube.com/watch?v=w0c3t0fJhXU
+[15]:	https://www.youtube.com/watch?v=VPVoY1QROMg
+[16]:	https://www.youtube.com/watch?v=ZYH9dGl4gUE
+[17]:	https://www.youtube.com/watch?v=-td7YT-Pums
+[18]:	https://www.youtube.com/watch?v=WBfAEeEzDlg
+[19]:	http://uk.rs-online.com/web/
+[20]:	maplin.co.uk
+[21]:	rapidonline.com
+[22]:	http://www.gearbest.com/ "http://www.gearbest.com"
+[23]:	http://oomlout.co.uk/
+[24]:	http://uk.farnell.com/
+[25]:	https://www.youtube.com/watch?v=pnf8ojsK6S4
+[26]:	http://cdn.makezine.com/make/shed/make_electronics_1.pdf "Gettting Started With Electronics "
+[27]:	https://www.sparkfun.com/tutorials/ "Sparkfun Tutorials "
+[28]:	https://learn.adafruit.com/ "learn from adafruit"
+[29]:	https://www.raspberrypi.org/documentation
+[30]:	http://artofelectronics.net/
+[31]:	https://oshpark.com/
+[32]:	http://boldport.blogspot.nl/2014/02/so-you-want-to-manufacture-your-printed.html
