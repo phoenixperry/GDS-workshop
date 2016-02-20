@@ -223,9 +223,11 @@ Great Scott
 [https://www.youtube.com/user/greatscottlab][34]
 
 Ada Fruit 
+
 [https://www.youtube.com/user/adafruit][35]
 
 Make Magazine 
+
 [https://www.youtube.com/results?search\_query=make+magazine][36]
 
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
