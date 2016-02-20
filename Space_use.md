@@ -72,6 +72,7 @@ Below are guidelines for each item:
 
 * Multimeter 
 
+	How do I read a multimeter? 
 	[https://www.youtube.com/watch?v=rPGoMbVSUu8][6]
 	When you are done, turn the meter of and place the tool back on the soldering station you are using.  
 
