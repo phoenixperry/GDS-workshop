@@ -261,6 +261,9 @@ The small computers are computers. They are far more advanced, have much larger 
 
 A micro controller is much less. It’s usually got a very limited memory like 64k and can only write and read the GPIO pins on the board itself. There’s no saving data here really. If you want to save data you’ll need to have a connected computer and send the data out from the micro controller to a computer. 
 
+#### Hacking resources around London  
+TODO 
+
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
 [2]:	https://www.youtube.com/watch?v=J-1phA_vKDg&list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL
 [3]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
