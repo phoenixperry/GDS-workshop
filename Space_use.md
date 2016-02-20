@@ -165,7 +165,7 @@ In the space we have the following items for woodworking:
  
 There are some parts members can use freely in the lab in a consumables station. These materials are vital for physical computing students and are meant to last through the creation of exhibition projects. Anything taken from this area should be returned if possible when you are done with it. The budget for these supplies is extremely small and it’s not an endless resource. If materials are stolen and the bins are all stripped clean, this entire station might no longer be possible for Computing to maintain. 
 
-## Want to donate to the consumables? 
+#### Want to donate to the consumables? 
 Did you have functional left over parts you will no longer need or order a bag of parts so large you have no idea how you’d ever use it all? Why not donate some materials back to your fellow students? Consumables donations can be left in the open bin under the table the consumables sit on. 
 
 **If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**   
