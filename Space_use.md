@@ -222,6 +222,30 @@ Make Magazine
 NYU ITP’s Physical Computing Course 
 [https://itp.nyu.edu/physcomp/][37]
 
+## Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment  
+Teensy (Wearables, small form use cases, sound) 
+[https://www.pjrc.com/teensy/][38]
+Bare Board (capacitive touch) 
+[http://www.bareconductive.com/][39]
+Flora (wearables) 
+[https://www.adafruit.com/products/659][40]
+Bright Blue Bean (bluetooth) 
+[https://punchthrough.com/bean/][41]
+Photon (wifi) 
+[https://store.particle.io/][42]
+Pinoccio (mesh networking) 
+[https://pinocc.io/][43]
+
+## Small Computing Platforms 
+Beagle Bone
+[http://beagleboard.org/bone][44]
+Raspberry Pi
+[raspberrypi.org][45]
+Udoo 
+[http://www.udoo.org/][46]
+Intel Edison 
+[https://www.sparkfun.com/products/13024][47]
+
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
 [2]:	https://www.youtube.com/watch?v=J-1phA_vKDg&list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL
 [3]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
@@ -259,3 +283,13 @@ NYU ITP’s Physical Computing Course
 [35]:	https://www.youtube.com/user/adafruit
 [36]:	https://www.youtube.com/results?search_query=make+magazine
 [37]:	https://itp.nyu.edu/physcomp/
+[38]:	https://www.pjrc.com/teensy/
+[39]:	http://www.bareconductive.com/
+[40]:	https://www.adafruit.com/products/659
+[41]:	https://punchthrough.com/bean/
+[42]:	https://store.particle.io/
+[43]:	https://pinocc.io/
+[44]:	http://beagleboard.org/bone
+[45]:	raspberrypi.org
+[46]:	http://www.udoo.org/
+[47]:	https://www.sparkfun.com/products/13024
