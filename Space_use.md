@@ -35,7 +35,7 @@ And yes, there will be magic.
 Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
 
 #### Responsibility
-Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. Also, if you destroy a piece of gear, you will be required to replace it. 
+Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. **Isf you destroy a piece of gear, you will be required to replace it. **
 
 Below are guidelines for each item:
 
@@ -46,7 +46,9 @@ Below are guidelines for each item:
 
 * Handtools 
 
+	There are various hand tools around the lab. If you use one, put it back where you found it when you are done with it. 
 	[https://www.youtube.com/watch?v=J-1phA\_vKDg&list=PLjF7R1fz\_OOU08\_hRcayfVZSmTpBCGJbL][2] 
+
 
 * Soldering 
 
@@ -56,24 +58,28 @@ Below are guidelines for each item:
 	More information on getting setup, the right iron temp and how to set up here: 
 	[http://makezine.com/2011/01/06/skill-set-soldering/][4]
 
-	If you need a soldering iron, you are required to **turn the iron off** when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this.  
+	If you need a soldering iron, you are required to **turn the iron off** when you are done. Failure to do so can ruin the irons and mean that no one can ever use it again. It’s vital to do this. You will be charged a replacement cost for the iron.  
 
 	Did it not work? Check out desoldering to try it again! 
 
 * Desoldering 
 
 	This is how to use a solder sucker and solder wick: 
-	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][5]	
+	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][5]
+	When you are done desoldering, place the tool back on the soldering station you are using. 	
 
 * Multimeter 
 
 	[https://www.youtube.com/watch?v=rPGoMbVSUu8][6]
+	When you are done, turn the meter of and place the tool back on the soldering station you are using.  
 
 * Oscilloscope
 
-	[https://www.youtube.com/watch?v=ThrK2spjrLs][7] 
+	[https://www.youtube.com/watch?v=ThrK2spjrLs][7]
+	When you are done, turn the scope off and place it back on the table where you found it. 
 
 * Variable Power Supply
+	When you are done, turn the supply off and place it back on the table where you found it. 
 
 * 3D Printing 
 
@@ -95,7 +101,7 @@ Below are guidelines for each item:
 
 * Circular Woodsaw
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. Use only at your own risk after proper training.  
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it.     
 
 	Part 1
 	[https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][10]
@@ -105,7 +111,7 @@ Below are guidelines for each item:
 
 * Jigsaw 
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. You are also required to bring your own blade. Use only at your own risk after proper training. 
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. You are also required to bring your own blade. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it. 
 
 	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][12]
 
@@ -151,7 +157,14 @@ In the space we have the following items for woodworking:
 * basic tools like screwdrivers 
 * a cutting table 
 * a vacuum  
+## A word on consumables, or as they are called in one hackerspace, Thingsgiving. 
+There are some parts members can use freely in the lab in a consumables station. These materials are vital for physical computing students and are meant to last through the creation of exhibition projects. Anything taken from this area should be returned if possible when you are done with it. The budget for these supplies is extremely small and it’s not an endless resource. If materials are stolen and the bins are all stripped clean, this entire station might no longer be possible for Computing to maintain. 
 
+## Want to donate to the consumables? 
+Did you have functional left over parts you will no longer need or order a bag of parts so large you have no idea how you’d ever use it all? Why not donate some materials back to your fellow students? Consumables donations can be left in the open bin under the table the consumables sit on. 
+
+**If you take something, give something of equal usefulness and value is generally a nice rule to follow.**   
+ 
 ## General Skills: 
 Here are some really useful things to know about as you start your hacking journey: 
 * Ohm’s Law 
