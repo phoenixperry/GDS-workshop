@@ -165,7 +165,8 @@ In the space we have the following items for woodworking:
 * basic tools like screwdrivers 
 * a cutting table 
 * a vacuum  
-* ## Places to buy hacking materials: 
+
+## Places to buy hacking materials: 
 [http://uk.rs-online.com/web/][19]
 
 [http://www.maplin.co.uk][20]
