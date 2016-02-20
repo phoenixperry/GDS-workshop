@@ -181,53 +181,41 @@ In the space we have the following items for woodworking:
 
 ## Other resources 
 Arduino Basics 
-
 [https://www.youtube.com/watch?v=pnf8ojsK6S4][25]
 
 Make’s Getting Started with Electronics 
-
 [http://cdn.makezine.com/make/shed/make\_electronics\_1.pdf][26]
 
 Spark fun tutorials 
-
 [https://www.sparkfun.com/tutorials/][27]
 
 Learn from Adafruit
-
 [https://learn.adafruit.com/][28]
 
 Raspberry Pi Documentation 
-
 [https://www.raspberrypi.org/documentation][29]
 
-The Bible, otherwise know as: 
-
+The Bible, otherwise know as 
 The Art of Electronics 
 [http://artofelectronics.net/][30]
 
 Want to make your own circuit board? 
-
 [https://oshpark.com/][31]
 
 Printing boards in the UK guide: 
- 
 [http://boldport.blogspot.co.uk/2014/02/so-you-want-to-manufacture-your-printed.html ][32] 
 
 Open Source Hardware Association 
-
 [http://www.oshwa.org/][33]
 
 ## Great YouTube Channels 
 Great Scott 
-
 [https://www.youtube.com/user/greatscottlab][34]
 
 Ada Fruit 
-
 [https://www.youtube.com/user/adafruit][35]
 
 Make Magazine 
-
 [https://www.youtube.com/results?search\_query=make+magazine][36]
 
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
