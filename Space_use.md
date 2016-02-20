@@ -71,6 +71,8 @@ Below are guidelines for each item:
 
 	[https://www.youtube.com/watch?v=ThrK2spjrLs][7] 
 
+* Variable Power Supply
+
 * 3D Printing 
 
 	Wanna use the 3D Printer? Awesome! Now before you get crazy know that you are responsible for making sure it works when you are finished with it for the next user. 
@@ -178,30 +180,52 @@ In the space we have the following items for woodworking:
 
 ## Other resources 
 Arduino Basics 
+
 [https://www.youtube.com/watch?v=pnf8ojsK6S4][25]
 
 Make’s Getting Started with Electronics 
+
 [http://cdn.makezine.com/make/shed/make\_electronics\_1.pdf][26]
 
 Spark fun tutorials 
+
 [https://www.sparkfun.com/tutorials/][27]
 
 Learn from Adafruit
+
 [https://learn.adafruit.com/][28]
 
 Raspberry Pi Documentation 
+
 [https://www.raspberrypi.org/documentation][29]
 
 The Bible, otherwise know as: 
+
 The Art of Electronics 
 [http://artofelectronics.net/][30]
 
 Want to make your own circuit board? 
+
 [https://oshpark.com/][31]
 
 Printing boards in the UK guide: 
-  
+ 
 [http://boldport.blogspot.co.uk/2014/02/so-you-want-to-manufacture-your-printed.html ][32] 
+
+Open Source Hardware Association 
+
+[http://www.oshwa.org/][33]
+
+## Great YouTube Channels 
+Great Scott 
+
+[https://www.youtube.com/user/greatscottlab][34]
+
+Ada Fruit 
+[https://www.youtube.com/user/adafruit][35]
+
+Make Magazine 
+[https://www.youtube.com/results?search\_query=make+magazine][36]
 
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
 [2]:	https://www.youtube.com/watch?v=J-1phA_vKDg&list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL
@@ -235,3 +259,7 @@ Printing boards in the UK guide:
 [30]:	http://artofelectronics.net/
 [31]:	https://oshpark.com/
 [32]:	http://boldport.blogspot.nl/2014/02/so-you-want-to-manufacture-your-printed.html
+[33]:	http://www.oshwa.org/
+[34]:	https://www.youtube.com/user/greatscottlab
+[35]:	https://www.youtube.com/user/adafruit
+[36]:	https://www.youtube.com/results?search_query=make+magazine
