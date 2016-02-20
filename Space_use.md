@@ -218,6 +218,10 @@ Ada Fruit
 Make Magazine 
 [https://www.youtube.com/results?search\_query=make+magazine][36]
 
+## Online classes 
+NYU ITP’s Physical Computing Course 
+[https://itp.nyu.edu/physcomp/][37]
+
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
 [2]:	https://www.youtube.com/watch?v=J-1phA_vKDg&list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL
 [3]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
@@ -254,3 +258,4 @@ Make Magazine
 [34]:	https://www.youtube.com/user/greatscottlab
 [35]:	https://www.youtube.com/user/adafruit
 [36]:	https://www.youtube.com/results?search_query=make+magazine
+[37]:	https://itp.nyu.edu/physcomp/
