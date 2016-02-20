@@ -81,6 +81,8 @@ Below are guidelines for each item:
 	When you are done, turn the scope off and place it back on the table where you found it. 
 
 * Variable Power Supply
+
+	[https://www.youtube.com/watch?v=Sr89UbofNgw][8]
 	When you are done, turn the supply off and place it back on the table where you found it. 
 
 * 3D Printing 
@@ -92,10 +94,10 @@ Below are guidelines for each item:
 	Only members have access to these machines. 
 	  
 	To review how to print or if you get stuck check out this guide: 
-	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][8]
+	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][9]
 
 	To book a slot on the printers go here:  
-	[TODO: SET UP YOUCANBOOKME][9]
+	[TODO: SET UP YOUCANBOOKME][10]
 
 * Laser Cutter 
 
@@ -106,16 +108,16 @@ Below are guidelines for each item:
 	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it.     
 
 	Part 1
-	[https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][10]
+	[https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][11]
 
 	Part 2 
-	[https://www.youtube.com/watch?v=y0IcTl8D91Q][11]
+	[https://www.youtube.com/watch?v=y0IcTl8D91Q][12]
 
 * Jigsaw 
 
 	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. You are also required to bring your own blade. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it. 
 
-	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][12]
+	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][13]
 
 ## Specific Resources for members 
 In the space we have the following items for hacking: 
@@ -213,105 +215,105 @@ If you abject to these terms, you must notify a member of staff immediately afte
 ## General Skills: 
 Here are some really useful things to know about as you start your hacking journey: 
 * Ohm’s Law 
-	[https://www.youtube.com/watch?v=-mHLvtGjum4][13]
+	[https://www.youtube.com/watch?v=-mHLvtGjum4][14]
 * Breadboards 
-	[https://www.youtube.com/watch?v=w0c3t0fJhXU][14]
+	[https://www.youtube.com/watch?v=w0c3t0fJhXU][15]
 * Resistors
-	[https://www.youtube.com/watch?v=VPVoY1QROMg][15]
+	[https://www.youtube.com/watch?v=VPVoY1QROMg][16]
 * Capacitors 
-	[https://www.youtube.com/watch?v=ZYH9dGl4gUE][16]
+	[https://www.youtube.com/watch?v=ZYH9dGl4gUE][17]
 * Transistors 
-	[https://www.youtube.com/watch?v=-td7YT-Pums][17]
+	[https://www.youtube.com/watch?v=-td7YT-Pums][18]
 * Kirchhoff’s Law
-	[https://www.youtube.com/watch?v=WBfAEeEzDlg][18]
+	[https://www.youtube.com/watch?v=WBfAEeEzDlg][19]
 
 #### Places to buy hacking materials: 
-[http://uk.rs-online.com/web/][19]
+[http://uk.rs-online.com/web/][20]
 
-[http://www.maplin.co.uk][20]
+[http://www.maplin.co.uk][21]
 
-[http://rapidonline.com][21]
+[http://rapidonline.com][22]
 
-[http://www.gearbest.com][22]
+[http://www.gearbest.com][23]
   
-[http://oomlout.co.uk/][23]
+[http://oomlout.co.uk/][24]
 
-[http://uk.farnell.com/][24]
+[http://uk.farnell.com/][25]
 
 #### Other resources 
 Arduino Basics 
-[https://www.youtube.com/watch?v=pnf8ojsK6S4][25]
+[https://www.youtube.com/watch?v=pnf8ojsK6S4][26]
 
 Make’s Getting Started with Electronics 
-[http://cdn.makezine.com/make/shed/make\_electronics\_1.pdf][26]
+[http://cdn.makezine.com/make/shed/make\_electronics\_1.pdf][27]
 
 Spark fun tutorials 
-[https://www.sparkfun.com/tutorials/][27]
+[https://www.sparkfun.com/tutorials/][28]
 
 Learn from Adafruit
-[https://learn.adafruit.com/][28]
+[https://learn.adafruit.com/][29]
 
 Raspberry Pi Documentation 
-[https://www.raspberrypi.org/documentation][29]
+[https://www.raspberrypi.org/documentation][30]
 
 The Bible, otherwise know as 
 The Art of Electronics 
-[http://artofelectronics.net/][30]
+[http://artofelectronics.net/][31]
 
 Want to make your own circuit board? 
-[https://oshpark.com/][31]
+[https://oshpark.com/][32]
 
 Printing boards in the UK guide: 
-[http://boldport.blogspot.co.uk/2014/02/so-you-want-to-manufacture-your-printed.html ][32] 
+[http://boldport.blogspot.co.uk/2014/02/so-you-want-to-manufacture-your-printed.html ][33] 
 
 Open Source Hardware Association 
-[http://www.oshwa.org/][33]
+[http://www.oshwa.org/][34]
 
 #### Great YouTube Channels 
 Great Scott 
-[https://www.youtube.com/user/greatscottlab][34]
+[https://www.youtube.com/user/greatscottlab][35]
 
 Ada Fruit 
-[https://www.youtube.com/user/adafruit][35]
+[https://www.youtube.com/user/adafruit][36]
 
 Make Magazine 
-[https://www.youtube.com/results?search\_query=make+magazine][36]
+[https://www.youtube.com/results?search\_query=make+magazine][37]
 
 #### Online classes 
 NYU ITP’s Physical Computing Course 
-[https://itp.nyu.edu/physcomp/][37]
+[https://itp.nyu.edu/physcomp/][38]
 
 #### Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment or are Arduino like 
 Teensy (Wearables, small form use cases, sound) 
-[https://www.pjrc.com/teensy/][38]
+[https://www.pjrc.com/teensy/][39]
 
 Bare Board (capacitive touch) 
-[http://www.bareconductive.com/][39]
+[http://www.bareconductive.com/][40]
 
 Flora (wearables) 
-[https://www.adafruit.com/products/659][40]
+[https://www.adafruit.com/products/659][41]
 
 Bright Blue Bean (bluetooth) 
-[https://punchthrough.com/bean/][41]
+[https://punchthrough.com/bean/][42]
 
 Photon (wifi) 
-[https://store.particle.io/][42]
+[https://store.particle.io/][43]
 
 Pinoccio (mesh networking) 
-[https://pinocc.io/][43]
+[https://pinocc.io/][44]
 
 #### Small Computing Platforms 
 Beagle Bone
-[http://beagleboard.org/bone][44]
+[http://beagleboard.org/bone][45]
 
 Raspberry Pi
-[raspberrypi.org][45]
+[raspberrypi.org][46]
 
 Udoo 
-[http://www.udoo.org/][46]
+[http://www.udoo.org/][47]
 
 Intel Edison 
-[https://www.sparkfun.com/products/13024][47]
+[https://www.sparkfun.com/products/13024][48]
 
 #### What the heck is the difference between a small computing platform and a micro controller? 
 
@@ -329,43 +331,44 @@ TODO
 [5]:	https://www.youtube.com/watch?v=N_dvf45hN6Y
 [6]:	https://www.youtube.com/watch?v=rPGoMbVSUu8 "multimter"
 [7]:	https://www.youtube.com/watch?v=ThrK2spjrLs
-[8]:	http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials
-[9]:	%20
-[10]:	https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM
-[11]:	https://www.youtube.com/watch?v=y0IcTl8D91Q
-[12]:	https://youtu.be/x287U_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM "How to use a jig saw "
-[13]:	https://www.youtube.com/watch?v=-mHLvtGjum4
-[14]:	https://www.youtube.com/watch?v=w0c3t0fJhXU
-[15]:	https://www.youtube.com/watch?v=VPVoY1QROMg
-[16]:	https://www.youtube.com/watch?v=ZYH9dGl4gUE
-[17]:	https://www.youtube.com/watch?v=-td7YT-Pums
-[18]:	https://www.youtube.com/watch?v=WBfAEeEzDlg
-[19]:	http://uk.rs-online.com/web/
-[20]:	maplin.co.uk
-[21]:	rapidonline.com
-[22]:	http://www.gearbest.com/ "http://www.gearbest.com"
-[23]:	http://oomlout.co.uk/
-[24]:	http://uk.farnell.com/
-[25]:	https://www.youtube.com/watch?v=pnf8ojsK6S4
-[26]:	http://cdn.makezine.com/make/shed/make_electronics_1.pdf "Gettting Started With Electronics "
-[27]:	https://www.sparkfun.com/tutorials/ "Sparkfun Tutorials "
-[28]:	https://learn.adafruit.com/ "learn from adafruit"
-[29]:	https://www.raspberrypi.org/documentation
-[30]:	http://artofelectronics.net/
-[31]:	https://oshpark.com/
-[32]:	http://boldport.blogspot.nl/2014/02/so-you-want-to-manufacture-your-printed.html
-[33]:	http://www.oshwa.org/
-[34]:	https://www.youtube.com/user/greatscottlab
-[35]:	https://www.youtube.com/user/adafruit
-[36]:	https://www.youtube.com/results?search_query=make+magazine
-[37]:	https://itp.nyu.edu/physcomp/
-[38]:	https://www.pjrc.com/teensy/
-[39]:	http://www.bareconductive.com/
-[40]:	https://www.adafruit.com/products/659
-[41]:	https://punchthrough.com/bean/
-[42]:	https://store.particle.io/
-[43]:	https://pinocc.io/
-[44]:	http://beagleboard.org/bone
-[45]:	raspberrypi.org
-[46]:	http://www.udoo.org/
-[47]:	https://www.sparkfun.com/products/13024
+[8]:	https://www.youtube.com/watch?v=Sr89UbofNgw
+[9]:	http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials
+[10]:	%20
+[11]:	https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM
+[12]:	https://www.youtube.com/watch?v=y0IcTl8D91Q
+[13]:	https://youtu.be/x287U_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM "How to use a jig saw "
+[14]:	https://www.youtube.com/watch?v=-mHLvtGjum4
+[15]:	https://www.youtube.com/watch?v=w0c3t0fJhXU
+[16]:	https://www.youtube.com/watch?v=VPVoY1QROMg
+[17]:	https://www.youtube.com/watch?v=ZYH9dGl4gUE
+[18]:	https://www.youtube.com/watch?v=-td7YT-Pums
+[19]:	https://www.youtube.com/watch?v=WBfAEeEzDlg
+[20]:	http://uk.rs-online.com/web/
+[21]:	maplin.co.uk
+[22]:	rapidonline.com
+[23]:	http://www.gearbest.com/ "http://www.gearbest.com"
+[24]:	http://oomlout.co.uk/
+[25]:	http://uk.farnell.com/
+[26]:	https://www.youtube.com/watch?v=pnf8ojsK6S4
+[27]:	http://cdn.makezine.com/make/shed/make_electronics_1.pdf "Gettting Started With Electronics "
+[28]:	https://www.sparkfun.com/tutorials/ "Sparkfun Tutorials "
+[29]:	https://learn.adafruit.com/ "learn from adafruit"
+[30]:	https://www.raspberrypi.org/documentation
+[31]:	http://artofelectronics.net/
+[32]:	https://oshpark.com/
+[33]:	http://boldport.blogspot.nl/2014/02/so-you-want-to-manufacture-your-printed.html
+[34]:	http://www.oshwa.org/
+[35]:	https://www.youtube.com/user/greatscottlab
+[36]:	https://www.youtube.com/user/adafruit
+[37]:	https://www.youtube.com/results?search_query=make+magazine
+[38]:	https://itp.nyu.edu/physcomp/
+[39]:	https://www.pjrc.com/teensy/
+[40]:	http://www.bareconductive.com/
+[41]:	https://www.adafruit.com/products/659
+[42]:	https://punchthrough.com/bean/
+[43]:	https://store.particle.io/
+[44]:	https://pinocc.io/
+[45]:	http://beagleboard.org/bone
+[46]:	raspberrypi.org
+[47]:	http://www.udoo.org/
+[48]:	https://www.sparkfun.com/products/13024
