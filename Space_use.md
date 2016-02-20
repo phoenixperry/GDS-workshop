@@ -160,7 +160,9 @@ In the space we have the following items for woodworking:
 * a cutting table 
 * a vacuum  
 
-#### A word on consumables, or as they are called in one hackerspace, Thingsgiving. 
+#### A word on consumables
+(Or as they are called in one hackerspace, Thingsgiving.) 
+ 
 There are some parts members can use freely in the lab in a consumables station. These materials are vital for physical computing students and are meant to last through the creation of exhibition projects. Anything taken from this area should be returned if possible when you are done with it. The budget for these supplies is extremely small and it’s not an endless resource. If materials are stolen and the bins are all stripped clean, this entire station might no longer be possible for Computing to maintain. 
 
 ## Want to donate to the consumables? 
