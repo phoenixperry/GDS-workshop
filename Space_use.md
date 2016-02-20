@@ -166,8 +166,23 @@ There are some parts members can use freely in the lab in a consumables station.
 Did you have functional left over parts you will no longer need or order a bag of parts so large you have no idea how you’d ever use it all? Why not donate some materials back to your fellow students? Consumables donations can be left in the open bin under the table the consumables sit on. 
 
 **If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**   
- 
-This is the end of the general use agreement. Below are some useful links and information to encourage experimentation. 
+
+## Security 
+##### The lurker cam  
+Everyone hates security cameras. That said, there is a live camera feed in the space that staff have access too. We do this so we can check in when we are not around in the building physically to make sure everything running according to plan. This feed will never be made publicly available and is here only for our own monitoring of the room.  
+
+##### Access 
+Giving access to the space to non-members outside of Craft Night or explicitly stated events is forbidden. If you do this, you will lose your own access for the rest of the academic year. 
+
+##### Damage  
+If you damage a piece of gear, the best thing to do is let the staff know and we’ll assess if it needs to be replaced and if you will be held responsible for the damage. 
+
+If materials are damaged and unreported, we will review our footage to track down how it happened and who used the gear last.  
+
+##### Terms of Agreement 
+This is the end of the general use agreement. By entering into this room and using these facilities, you agree to the above terms of use. This agreement will be reviewed in detail at all induction sessions for new members. 
+
+If you abject to these terms, you must notify a member of staff immediately after your induction training session. At that point, you will lose access to the room via swipe card and will only be allowed in the space during supervised classes. Additionally, all tools and resources will be off limits to you. 
 
 ---- -- 
 ## General Skills: 
