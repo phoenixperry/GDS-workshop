@@ -77,7 +77,7 @@ Below are guidelines for each item:
 
 	Wanna use the 3D Printer? Awesome! Now before you get crazy know that you are responsible for making sure it works when you are finished with it for the next user. 
 
-	**If you break the printer by misusing it, you have to fix it yourself or pay to have it repaired. **
+	**If you break the printer by misusing it, you have to fix it yourself or pay to have it repaired by a license technician of the Department of Computing’s choice. **
 	  
 	Only members have access to these machines. 
 	  
