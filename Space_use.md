@@ -77,7 +77,7 @@ Below are guidelines for each item:
 
 * 3D Printing 
 
-	Wanna use the 3D Printer? Awesome! They live in the WB100 space, not this room. Now before you get crazy know that you are responsible for making sure it works when you are finished with it for the next user. 
+	Wanna use the 3D Printer? Awesome! They live in the WB100 space, not this room. Now before you get started know that you are responsible for making sure it works when you are finished with it for the next user. 
 
 	**If you break the printer by misusing it, you have to fix it yourself by the end of the day or pay to have it repaired by a license technician of the Department of Computing’s choice. **
 	  
