@@ -171,7 +171,7 @@ Did you have functional left over parts you will no longer need or order a bag o
 **If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**   
 
 ## Security 
-##### The lurker cam  
+##### The staff cam  
 Everyone hates security cameras. That said, there is a live camera feed in the space that staff have access too. We do this so we can check in when we are not around in the building physically to make sure everything running according to plan. This feed will never be made publicly available and is here only for our own monitoring of the room.  
 
 ##### Access 
