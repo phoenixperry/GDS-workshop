@@ -17,7 +17,7 @@ Access to this space comes in two forms. Unlimited member access and non-member 
 ### Training Sessions to become a member
 Access to this space is a privilege, not a right and it can be revoked if a user violates the polices laid out for the space. 
 
-To get unsupervised access to this space and become a full member, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatch Lab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email p.perry@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. 
+To get unsupervised access to this space and become a full member, it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatch Lreab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email p.perry@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. 
 
 ### Craft Nights  
 The first Thursday of every month from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hackers will be around hacking and sharing knowledge and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
@@ -33,7 +33,7 @@ And yes, there will be magic.
 Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
 
 #### Responsibility
-Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. If you see a fellow member not using a piece of gear correctly, help them out and inform them on proper usage. If you see someone disrespecting the space, know it’s hurting everyone. There are no new budgets to buy more gear. Everyone loses when something is damaged. Also, if a member of staff sees you destroy a piece of gear, you will be required to replace it. 
+Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. Also, if a member of staff sees you destroy a piece of gear, you will be required to replace it. 
 
 Below are guidelines for each item:
 
