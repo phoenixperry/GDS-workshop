@@ -317,7 +317,7 @@ Udoo
 Intel Edison 
 [https://www.sparkfun.com/products/13024][48]
 
-#### What the heck is the difference between a small computing platform and a micro controller? 
+#### What’s the difference? 
 
 The small computers are computers. They are far more advanced, have much larger memories, USB ports, video displays and usually their own GPIO (general purpose input/output) pins you can program that will give you control over sensors and actuators. 
 
