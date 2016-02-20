@@ -225,24 +225,32 @@ NYU ITP’s Physical Computing Course
 ## Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment  
 Teensy (Wearables, small form use cases, sound) 
 [https://www.pjrc.com/teensy/][38]
+
 Bare Board (capacitive touch) 
 [http://www.bareconductive.com/][39]
+
 Flora (wearables) 
 [https://www.adafruit.com/products/659][40]
+
 Bright Blue Bean (bluetooth) 
 [https://punchthrough.com/bean/][41]
+
 Photon (wifi) 
 [https://store.particle.io/][42]
+
 Pinoccio (mesh networking) 
 [https://pinocc.io/][43]
 
 ## Small Computing Platforms 
 Beagle Bone
 [http://beagleboard.org/bone][44]
+
 Raspberry Pi
 [raspberrypi.org][45]
+
 Udoo 
 [http://www.udoo.org/][46]
+
 Intel Edison 
 [https://www.sparkfun.com/products/13024][47]
 
