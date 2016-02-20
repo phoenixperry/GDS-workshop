@@ -324,7 +324,13 @@ The small computers are computers. They are far more advanced, have much larger 
 A micro controller is much less. It’s usually got a very limited memory like 64k and can only write and read the GPIO pins on the board itself. There’s no saving data here really. If you want to save data you’ll need to have a connected computer and send the data out from the micro controller to a computer. 
 
 #### Hacking resources around London  
-TODO 
+
+* London Hackspace [https://london.hackspace.org.uk/][49]
+* South London Makerspace [http://southlondonmakerspace.org/][50]
+* London Fablab [https://www.fablabs.io/fablablondon][51]
+* Machines Room [http://machinesroom.org/][52]
+* All of the rest: [https://docs.google.com/spreadsheets/d/1v-HLO5QNVfi4MQwLKxISypJkDMXm5NL\_OxDrWBRGJXc/edit#gid=1090946524][53]
+
 
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
 [2]:	https://www.youtube.com/watch?v=J-1phA_vKDg&list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL
@@ -374,3 +380,8 @@ TODO
 [46]:	raspberrypi.org
 [47]:	http://www.udoo.org/
 [48]:	https://www.sparkfun.com/products/13024
+[49]:	https://london.hackspace.org.uk/
+[50]:	http://southlondonmakerspace.org/
+[51]:	https://www.fablabs.io/fablablondon
+[52]:	http://machinesroom.org/
+[53]:	https://docs.google.com/spreadsheets/d/1v-HLO5QNVfi4MQwLKxISypJkDMXm5NL_OxDrWBRGJXc/edit#gid=1090946524
