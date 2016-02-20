@@ -11,17 +11,17 @@ This space isn’t just a lab where you drop in and out and someone else builds 
 ## About the space: 
 This room, the former GDS, is now the temporary home to The Goldsmiths Hatch Lab Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future of the lab and it’s up to us to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of our community.   
 
-## Participate! 
+### Participate! 
 Hours the space is available are posted on the door every week. 
 
 Access to this space comes in two forms. Unlimited member access and non-member limited access. Membership is not guaranteed to all.  
 
-### Training Sessions to become a member
+#### Training Sessions to become a member
 Access to this space is a privilege, not a right and it can be revoked if a user violates the polices laid out for the space. 
 
 To get unsupervised access to this space and become a full member it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatch Lab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email p.perry@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. 
 
-### Craft Nights  
+#### Craft Nights  
 The first Thursday of every month from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hackers will be around hacking and sharing knowledge and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
 
 There will be mini-skills bootcamps, genius hackers visiting unannounced and general impromptu fun. The only way to know what’s happening is to turn up and take part. 
@@ -34,7 +34,7 @@ And yes, there will be magic.
 
 Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
 
-#### Responsibility
+### Equipment Use Guidelines 
 Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. 
 
 **If you destroy a piece of gear, you will be required to replace it. **
