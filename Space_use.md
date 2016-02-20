@@ -165,6 +165,9 @@ Did you have functional left over parts you will no longer need or order a bag o
 
 **If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**   
  
+This is the end of the general use agreement. Below are some useful links and information to encourage experimentation. 
+
+---- -- 
 ## General Skills: 
 Here are some really useful things to know about as you start your hacking journey: 
 * Ohm’s Law 
