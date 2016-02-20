@@ -83,6 +83,7 @@ Below are guidelines for each item:
 * Variable Power Supply
 
 	[https://www.youtube.com/watch?v=Sr89UbofNgw][8]
+
 	When you are done, turn the supply off and place it back on the table where you found it. 
 
 * 3D Printing 
