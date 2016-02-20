@@ -64,9 +64,11 @@ Below are guidelines for each item:
 	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][5]	
 
 * Multimeter 
+
 	[https://www.youtube.com/watch?v=rPGoMbVSUu8][6]
 
 * Oscilloscope
+
 	[https://www.youtube.com/watch?v=ThrK2spjrLs][7] 
 
 * 3D Printing 
