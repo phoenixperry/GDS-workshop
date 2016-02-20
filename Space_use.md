@@ -163,7 +163,7 @@ There are some parts members can use freely in the lab in a consumables station.
 ## Want to donate to the consumables? 
 Did you have functional left over parts you will no longer need or order a bag of parts so large you have no idea how you’d ever use it all? Why not donate some materials back to your fellow students? Consumables donations can be left in the open bin under the table the consumables sit on. 
 
-**If you take something, give something of equal usefulness and value is generally a nice rule to follow.**   
+**If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**   
  
 ## General Skills: 
 Here are some really useful things to know about as you start your hacking journey: 
