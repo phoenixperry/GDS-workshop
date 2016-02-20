@@ -254,6 +254,12 @@ Udoo
 Intel Edison 
 [https://www.sparkfun.com/products/13024][47]
 
+## What the heck is the difference between a small computing platform and a micro controller? 
+
+The small computers are computers. They are far more advanced, have much larger memories, USP ports, video displays and usually their own GPIO pins you can program that will give you control over sensors and actuators. 
+
+A micro controller is much less. It’s usually got a very limited memory like 64k and can only write and read the pins on the board itself. There’s no saving data here really. If you want to save data you’ll need to have a connected computer and send the data out from the micro controller to a computer. 
+
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
 [2]:	https://www.youtube.com/watch?v=J-1phA_vKDg&list=PLjF7R1fz_OOU08_hRcayfVZSmTpBCGJbL
 [3]:	https://www.youtube.com/watch?v=QKbJxytERvg "How to Solder"
