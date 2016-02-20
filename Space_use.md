@@ -95,7 +95,7 @@ Below are guidelines for each item:
 
 * Circular Woodsaw
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. Use only at your own risk after proper training. 
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. Use only at your own risk after proper training.  
 
 	Part 1
 	[https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][10]
@@ -105,25 +105,9 @@ Below are guidelines for each item:
 
 * Jigsaw 
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to hover the lab. You are also required to bring your own blade. Use only at your own risk after proper training. 
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. You are also required to bring your own blade. Use only at your own risk after proper training. 
 
 	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][12]
-
-
-## General Skills: 
-Here are some really useful things to know about as you start your hacking journey: 
-* Ohm’s Law 
-	[https://www.youtube.com/watch?v=-mHLvtGjum4][13]
-* Breadboards 
-	[https://www.youtube.com/watch?v=w0c3t0fJhXU][14]
-* Resistors
-	[https://www.youtube.com/watch?v=VPVoY1QROMg][15]
-* Capacitors 
-	[https://www.youtube.com/watch?v=ZYH9dGl4gUE][16]
-* Transistors 
-	[https://www.youtube.com/watch?v=-td7YT-Pums][17]
-* Kirchhoff’s Law
-	[https://www.youtube.com/watch?v=WBfAEeEzDlg][18]
 
 ## Specific Resources for members 
 In the space we have the following items for hacking: 
@@ -167,6 +151,21 @@ In the space we have the following items for woodworking:
 * basic tools like screwdrivers 
 * a cutting table 
 * a vacuum  
+
+## General Skills: 
+Here are some really useful things to know about as you start your hacking journey: 
+* Ohm’s Law 
+	[https://www.youtube.com/watch?v=-mHLvtGjum4][13]
+* Breadboards 
+	[https://www.youtube.com/watch?v=w0c3t0fJhXU][14]
+* Resistors
+	[https://www.youtube.com/watch?v=VPVoY1QROMg][15]
+* Capacitors 
+	[https://www.youtube.com/watch?v=ZYH9dGl4gUE][16]
+* Transistors 
+	[https://www.youtube.com/watch?v=-td7YT-Pums][17]
+* Kirchhoff’s Law
+	[https://www.youtube.com/watch?v=WBfAEeEzDlg][18]
 
 ## Places to buy hacking materials: 
 [http://uk.rs-online.com/web/][19]
