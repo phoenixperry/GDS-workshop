@@ -222,7 +222,7 @@ Make Magazine
 NYU ITP’s Physical Computing Course 
 [https://itp.nyu.edu/physcomp/][37]
 
-## Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment  
+## Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment or are Arduino like 
 Teensy (Wearables, small form use cases, sound) 
 [https://www.pjrc.com/teensy/][38]
 
