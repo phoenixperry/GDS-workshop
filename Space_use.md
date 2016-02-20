@@ -1,6 +1,6 @@
 
 # Welcome to The Hatch Lab Hackerspace! 
-This space serves to provide increased STEM access to the Goldsmiths student body and the researchers within the Computing  Department. 
+This space serves to provide increased STEM access to the Goldsmiths Computing Students and the researchers within the Computing  Department. 
 
 As a shared space, it’s very important we set up some ground rules and user polices so this space can support the community. What follows is a list of policies and guidelines for using this space, the gear in it and how we treat each other. 
 
