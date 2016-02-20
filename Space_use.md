@@ -78,6 +78,7 @@ Below are guidelines for each item:
 * Oscilloscope
 
 	What is this magic thing? [https://www.youtube.com/watch?v=ThrK2spjrLs][7]
+
 	When you are done, turn the scope off and place it back on the table where you found it. 
 
 * Variable Power Supply
