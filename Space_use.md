@@ -177,8 +177,8 @@ Did you have functional left over parts you will no longer need or order a bag o
 **If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**  
 
 ## Security
-##### The staff cam  
-Everyone hates security cameras. That said, there is a live camera feed in the space that all members have access too. This feed will never be made publicly available and is a great resource for checking in to see what is going on in the space before you head over to the room itself.   
+  
+Everyone hates security cameras. That said, security concerns are currently being considering by the department.   
 
 ##### Access
 Giving access to the space to non-members outside of Craft Night or explicitly stated events is forbidden. If you do this, you will lose your own access for the rest of the academic year. 
