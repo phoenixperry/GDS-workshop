@@ -41,7 +41,7 @@ Bring snacks, bring friends and prepare to build stuff. Get over here for Craft 
 ### Equipment Use Guidelines
 Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. 
 
-**If you destroy a piece of gear, you will be required to replace it. **
+**If you destroy a piece of gear through misuse, you will be required to replace it. **
 
 Below are guidelines for each item:
 
@@ -100,28 +100,17 @@ Below are guidelines for each item:
 	To review how to print or if you get stuck check out this guide: 
 	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][9]
 
-	To book a slot on the printers go here:  
-	[TODO: SET UP YOUCANBOOKME][10]
+	To book a slot on the printers go here: [https://wb100digital.wordpress.com/][10]
 
 * Laser Cutter 
 
 	Until further notice, this piece of gear is for researchers only. Soon this will change. 
 
-* Circular Woodsaw
-
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it.  
-
-	Part 1
-	[https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][11]
-
-	Part 2 
-	[https://www.youtube.com/watch?v=y0IcTl8D91Q][12]
-
 * Jigsaw 
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. You are also required to bring your own blade. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it. 
+	While using the saw, you are required to wear eye and ear protection. **After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface.** You are also required to bring your own blade. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it. 
 
-	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][13]
+	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][11]
 
 ## Specific Resources for members
 In the space we have the following items for hacking: 
@@ -157,7 +146,6 @@ In the space we have the following items for hacking:
 * Variable Power Supply  
 
 In the space we have the following items for woodworking: 
-* power saw 
 * jig saw 
 * wrenches 
 * drills 
@@ -219,113 +207,113 @@ If you abject to these terms, you must notify a member of staff immediately afte
 ## General Skills:
 Here are some really useful things to know about as you start your hacking journey: 
 * Ohm’s Law 
-	[https://www.youtube.com/watch?v=-mHLvtGjum4][14]
+	[https://www.youtube.com/watch?v=-mHLvtGjum4][12]
 * Breadboards 
-	[https://www.youtube.com/watch?v=w0c3t0fJhXU][15]
+	[https://www.youtube.com/watch?v=w0c3t0fJhXU][13]
 * Resistors
-	[https://www.youtube.com/watch?v=VPVoY1QROMg][16]
+	[https://www.youtube.com/watch?v=VPVoY1QROMg][14]
 * Capacitors 
-	[https://www.youtube.com/watch?v=ZYH9dGl4gUE][17]
+	[https://www.youtube.com/watch?v=ZYH9dGl4gUE][15]
 * Transistors 
-	[https://www.youtube.com/watch?v=-td7YT-Pums][18]
+	[https://www.youtube.com/watch?v=-td7YT-Pums][16]
 * Kirchhoff’s Law
-	[https://www.youtube.com/watch?v=WBfAEeEzDlg][19]
+	[https://www.youtube.com/watch?v=WBfAEeEzDlg][17]
 
 #### Places to buy hacking materials:
-[http://uk.rs-online.com/web/][20]
+[http://uk.rs-online.com/web/][18]
 
-[http://www.maplin.co.uk][21]
+[http://www.maplin.co.uk][19]
 
-[http://rapidonline.com][22]
+[http://rapidonline.com][20]
 
-[http://www.gearbest.com][23]
+[http://www.gearbest.com][21]
   
-[http://oomlout.co.uk/][24]
+[http://oomlout.co.uk/][22]
 
-[http://uk.farnell.com/][25]
+[http://uk.farnell.com/][23]
 
 #### Other resources
 Arduino Basics 
-[https://www.youtube.com/watch?v=pnf8ojsK6S4][26]
+[https://www.youtube.com/watch?v=pnf8ojsK6S4][24]
 
 Make’s Getting Started with Electronics 
-[http://cdn.makezine.com/make/shed/make\_electronics\_1.pdf][27]
+[http://cdn.makezine.com/make/shed/make\_electronics\_1.pdf][25]
 
 Spark fun tutorials 
-[https://www.sparkfun.com/tutorials/][28]
+[https://www.sparkfun.com/tutorials/][26]
 
 Learn from Adafruit
-[https://learn.adafruit.com/][29]
+[https://learn.adafruit.com/][27]
 
 Raspberry Pi Documentation 
-[https://www.raspberrypi.org/documentation][30]
+[https://www.raspberrypi.org/documentation][28]
 
 The Bible, otherwise know as 
 The Art of Electronics 
-[http://artofelectronics.net/][31]
+[http://artofelectronics.net/][29]
 
 Want to make your own circuit board? 
-[https://oshpark.com/][32]
+[https://oshpark.com/][30]
 
 Printing boards in the UK guide: 
-[http://boldport.blogspot.co.uk/2014/02/so-you-want-to-manufacture-your-printed.html ][33] 
+[http://boldport.blogspot.co.uk/2014/02/so-you-want-to-manufacture-your-printed.html ][31] 
 
 Open Source Hardware Association 
-[http://www.oshwa.org/][34]
+[http://www.oshwa.org/][32]
 
 #### Great YouTube Channels
 Great Scott 
-[https://www.youtube.com/user/greatscottlab][35]
+[https://www.youtube.com/user/greatscottlab][33]
 
 Ada Fruit 
-[https://www.youtube.com/user/adafruit][36]
+[https://www.youtube.com/user/adafruit][34]
 
 Make Magazine 
-[https://www.youtube.com/results?search\_query=make+magazine][37]
+[https://www.youtube.com/results?search\_query=make+magazine][35]
 
 #### Online classes
 NYU ITP’s Physical Computing Course 
-[https://itp.nyu.edu/physcomp/][38]
+[https://itp.nyu.edu/physcomp/][36]
 
 #### Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment or are Arduino like
 Teensy (Wearables, small form use cases, sound) 
-[https://www.pjrc.com/teensy/][39]
+[https://www.pjrc.com/teensy/][37]
 
 Bare Board (capacitive touch) 
-[http://www.bareconductive.com/][40]
+[http://www.bareconductive.com/][38]
 
 Flora (wearables) 
-[https://www.adafruit.com/products/659][41]
+[https://www.adafruit.com/products/659][39]
 
 Bright Blue Bean (bluetooth) 
-[https://punchthrough.com/bean/][42]
+[https://punchthrough.com/bean/][40]
 
 Photon (wifi) 
-[https://store.particle.io/][43]
+[https://store.particle.io/][41]
 
 Pinoccio (mesh networking) 
-[https://pinocc.io/][44]
+[https://pinocc.io/][42]
 
 #### Small Computing Platforms
 Beagle Bone
-[http://beagleboard.org/bone][45]
+[http://beagleboard.org/bone][43]
 
 Raspberry Pi
-[raspberrypi.org][46]
+[raspberrypi.org][44]
 
 Udoo 
-[http://www.udoo.org/][47]
+[http://www.udoo.org/][45]
 
 Intel Edison 
-[https://www.sparkfun.com/products/13024][48]
+[https://www.sparkfun.com/products/13024][46]
 
 #### Hacking resources around London  
 
-* London Hackspace [https://london.hackspace.org.uk/][49]
-* South London Makerspace [http://southlondonmakerspace.org/][50]
-* London Fablab [https://www.fablabs.io/fablablondon][51]
-* Machines Room [http://machinesroom.org/][52]
-* All of the rest: [https://docs.google.com/spreadsheets/d/1v-HLO5QNVfi4MQwLKxISypJkDMXm5NL\_OxDrWBRGJXc/edit#gid=1090946524][53]
+* London Hackspace [https://london.hackspace.org.uk/][47]
+* South London Makerspace [http://southlondonmakerspace.org/][48]
+* London Fablab [https://www.fablabs.io/fablablondon][49]
+* Machines Room [http://machinesroom.org/][50]
+* All of the rest: [https://docs.google.com/spreadsheets/d/1v-HLO5QNVfi4MQwLKxISypJkDMXm5NL\_OxDrWBRGJXc/edit#gid=1090946524][51]
 
 
 [1]:	https://www.youtube.com/watch?v=E6Nyzq3CzlI
@@ -337,47 +325,45 @@ Intel Edison
 [7]:	https://www.youtube.com/watch?v=ThrK2spjrLs
 [8]:	https://www.youtube.com/watch?v=Sr89UbofNgw
 [9]:	http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials
-[10]:	%20
-[11]:	https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM
-[12]:	https://www.youtube.com/watch?v=y0IcTl8D91Q
-[13]:	https://youtu.be/x287U_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM "How to use a jig saw "
-[14]:	https://www.youtube.com/watch?v=-mHLvtGjum4
-[15]:	https://www.youtube.com/watch?v=w0c3t0fJhXU
-[16]:	https://www.youtube.com/watch?v=VPVoY1QROMg
-[17]:	https://www.youtube.com/watch?v=ZYH9dGl4gUE
-[18]:	https://www.youtube.com/watch?v=-td7YT-Pums
-[19]:	https://www.youtube.com/watch?v=WBfAEeEzDlg
-[20]:	http://uk.rs-online.com/web/
-[21]:	maplin.co.uk
-[22]:	rapidonline.com
-[23]:	http://www.gearbest.com/ "http://www.gearbest.com"
-[24]:	http://oomlout.co.uk/
-[25]:	http://uk.farnell.com/
-[26]:	https://www.youtube.com/watch?v=pnf8ojsK6S4
-[27]:	http://cdn.makezine.com/make/shed/make_electronics_1.pdf "Gettting Started With Electronics "
-[28]:	https://www.sparkfun.com/tutorials/ "Sparkfun Tutorials "
-[29]:	https://learn.adafruit.com/ "learn from adafruit"
-[30]:	https://www.raspberrypi.org/documentation
-[31]:	http://artofelectronics.net/
-[32]:	https://oshpark.com/
-[33]:	http://boldport.blogspot.nl/2014/02/so-you-want-to-manufacture-your-printed.html
-[34]:	http://www.oshwa.org/
-[35]:	https://www.youtube.com/user/greatscottlab
-[36]:	https://www.youtube.com/user/adafruit
-[37]:	https://www.youtube.com/results?search_query=make+magazine
-[38]:	https://itp.nyu.edu/physcomp/
-[39]:	https://www.pjrc.com/teensy/
-[40]:	http://www.bareconductive.com/
-[41]:	https://www.adafruit.com/products/659
-[42]:	https://punchthrough.com/bean/
-[43]:	https://store.particle.io/
-[44]:	https://pinocc.io/
-[45]:	http://beagleboard.org/bone
-[46]:	raspberrypi.org
-[47]:	http://www.udoo.org/
-[48]:	https://www.sparkfun.com/products/13024
-[49]:	https://london.hackspace.org.uk/
-[50]:	http://southlondonmakerspace.org/
-[51]:	https://www.fablabs.io/fablablondon
-[52]:	http://machinesroom.org/
-[53]:	https://docs.google.com/spreadsheets/d/1v-HLO5QNVfi4MQwLKxISypJkDMXm5NL_OxDrWBRGJXc/edit#gid=1090946524
+[10]:	https://wb100digital.wordpress.com/
+[11]:	https://youtu.be/x287U_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM "How to use a jig saw "
+[12]:	https://www.youtube.com/watch?v=-mHLvtGjum4
+[13]:	https://www.youtube.com/watch?v=w0c3t0fJhXU
+[14]:	https://www.youtube.com/watch?v=VPVoY1QROMg
+[15]:	https://www.youtube.com/watch?v=ZYH9dGl4gUE
+[16]:	https://www.youtube.com/watch?v=-td7YT-Pums
+[17]:	https://www.youtube.com/watch?v=WBfAEeEzDlg
+[18]:	http://uk.rs-online.com/web/
+[19]:	maplin.co.uk
+[20]:	rapidonline.com
+[21]:	http://www.gearbest.com/ "http://www.gearbest.com"
+[22]:	http://oomlout.co.uk/
+[23]:	http://uk.farnell.com/
+[24]:	https://www.youtube.com/watch?v=pnf8ojsK6S4
+[25]:	http://cdn.makezine.com/make/shed/make_electronics_1.pdf "Gettting Started With Electronics "
+[26]:	https://www.sparkfun.com/tutorials/ "Sparkfun Tutorials "
+[27]:	https://learn.adafruit.com/ "learn from adafruit"
+[28]:	https://www.raspberrypi.org/documentation
+[29]:	http://artofelectronics.net/
+[30]:	https://oshpark.com/
+[31]:	http://boldport.blogspot.nl/2014/02/so-you-want-to-manufacture-your-printed.html
+[32]:	http://www.oshwa.org/
+[33]:	https://www.youtube.com/user/greatscottlab
+[34]:	https://www.youtube.com/user/adafruit
+[35]:	https://www.youtube.com/results?search_query=make+magazine
+[36]:	https://itp.nyu.edu/physcomp/
+[37]:	https://www.pjrc.com/teensy/
+[38]:	http://www.bareconductive.com/
+[39]:	https://www.adafruit.com/products/659
+[40]:	https://punchthrough.com/bean/
+[41]:	https://store.particle.io/
+[42]:	https://pinocc.io/
+[43]:	http://beagleboard.org/bone
+[44]:	raspberrypi.org
+[45]:	http://www.udoo.org/
+[46]:	https://www.sparkfun.com/products/13024
+[47]:	https://london.hackspace.org.uk/
+[48]:	http://southlondonmakerspace.org/
+[49]:	https://www.fablabs.io/fablablondon
+[50]:	http://machinesroom.org/
+[51]:	https://docs.google.com/spreadsheets/d/1v-HLO5QNVfi4MQwLKxISypJkDMXm5NL_OxDrWBRGJXc/edit#gid=1090946524
