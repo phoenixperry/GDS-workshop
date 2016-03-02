@@ -1,5 +1,5 @@
 
-# Welcome to The Hatch Lab Hackerspace! 
+# Welcome to The Goldsmiths Hackerspace!
 This space serves to provide increased STEM access to the Goldsmiths Computing Students and the researchers within the Computing  Department. 
 
 As a shared space, it’s very important we set up some ground rules and user polices so this space can support the community. What follows is a list of policies and guidelines for using this space, the gear in it and how we treat each other. 
@@ -8,10 +8,10 @@ This space isn’t just a lab where you drop in and out and someone else builds 
 
 **Together we know more.**
 
-## About the space: 
-This room, the former GDS, is now the temporary home to The Goldsmiths Hatch Lab Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future of the lab and it’s up to us to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of our community.   
+## About the space:
+This room, the former GDS, is now the temporary home to The Goldsmiths Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future and it’s up to us to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of our community.  
 
-### Participate! 
+### Participate!
 Hours the space is available are posted on the door every week. 
 
 Access to this space comes in two forms. Unlimited member access and non-member limited access. Membership is not guaranteed to all.  
@@ -19,10 +19,12 @@ Access to this space comes in two forms. Unlimited member access and non-member 
 #### Training Sessions to become a member
 Access to this space is a privilege, not a right and it can be revoked if a user violates the polices laid out for the space. 
 
-To get unsupervised access to this space and become a full member it’s very important you attend a training session. Sessions run on a per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatch Lab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email p.perry@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. 
+To get unsupervised access to this space and become a full member it’s very important you attend a training session. Sessions run on a twice per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatch Lab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email hackerspace@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. Groups already included in emails for induction for access to this space are: Creative Computing students, DAC students, MFA / MA students, Staff, PhD, Post Docs and Physical Computing Students. 
+
+Membership entitles members to use the space outside of supervised class sessions. If you are in a class in this room and do not want to be a member, that is fine however you will not be allowed into the room outside of class time. 
 
 #### Craft Nights  
-The first Thursday of every month from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hackers will be around hacking and sharing knowledge and everyone, including non-members, are encouraged to join and bring something awesome to work on. 
+The first Thursday of every month from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hackers will be around hacking and sharing knowledge and everyone, including non-members, are encouraged to join and bring something awesome to work on.
 
 There will be mini-skills bootcamps, genius hackers visiting unannounced and general impromptu fun. The only way to know what’s happening is to turn up and take part. 
 
@@ -34,7 +36,7 @@ And yes, there will be magic.
 
 Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
 
-### Equipment Use Guidelines 
+### Equipment Use Guidelines
 Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. 
 
 **If you destroy a piece of gear, you will be required to replace it. **
@@ -56,7 +58,6 @@ Below are guidelines for each item:
 
 	First off, this is how to solder: 
 	[https://www.youtube.com/watch?v=QKbJxytERvg][3]
-	  
 	More information on getting setup, the right iron temp and how to set up here: 
 	[http://makezine.com/2011/01/06/skill-set-soldering/][4]
 
@@ -68,7 +69,7 @@ Below are guidelines for each item:
 
 	This is how to use a solder sucker and solder wick: 
 	[https://www.youtube.com/watch?v=N\_dvf45hN6Y][5]
-	When you are done desoldering, place the tool back on the soldering station you are using. 	
+	When you are done desoldering, place the tool back on the soldering station you are using.  
 
 * Multimeter 
 
@@ -93,9 +94,7 @@ Below are guidelines for each item:
 	Wanna use the 3D Printer? Awesome! They live in the WB100 space, not this room. Now before you get started know that you are responsible for making sure it works when you are finished with it for the next user. 
 
 	**If you break the printer by misusing it, you have to fix it yourself by the end of the day or pay to have it repaired by a licensed technician of the Department of Computing’s choice. **
-	  
 	Only members have access to these machines. 
-	  
 	To review how to print or if you get stuck check out this guide: 
 	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][9]
 
@@ -108,7 +107,7 @@ Below are guidelines for each item:
 
 * Circular Woodsaw
 
-	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it.     
+	While using the saw, you are required to wear eye and ear protection. After cutting wood, you are required to vacuum the lab and wipe off any dust on any surface. Use only at your own risk after proper training. When you are done, place the tool back on the cabinet where you found it.  
 
 	Part 1
 	[https://youtu.be/YMcIfDjexSw?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][11]
@@ -122,7 +121,7 @@ Below are guidelines for each item:
 
 	[https://youtu.be/x287U\_yKRgA?list=PL7TL3DIMD30fthDx3QKBMs280CjTPqxjM][13]
 
-## Specific Resources for members 
+## Specific Resources for members
 In the space we have the following items for hacking: 
 * soldering irons
 * wire strippers 
@@ -170,24 +169,24 @@ In the space we have the following items for woodworking:
  
 There are some parts members can use freely in the lab in a consumables station. These materials are vital for physical computing students and are meant to last through the creation of exhibition projects. Anything taken from this area should be returned if possible when you are done with it. The budget for these supplies is extremely small and it’s not an endless resource. If materials are stolen and the bins are all stripped clean, this entire station might no longer be possible for Computing to maintain. 
 
-#### Want to donate to the consumables? 
+#### Want to donate to the consumables?
 Did you have functional left over parts you will no longer need or order a bag of parts so large you have no idea how you’d ever use it all? Why not donate some materials back to your fellow students? Consumables donations can be left in the open bin under the table the consumables sit on. 
 
-**If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**   
+**If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**  
 
-## Security 
+## Security
 ##### The staff cam  
-Everyone hates security cameras. That said, there is a live camera feed in the space that staff have access too. We do this so we can check in when we are not around in the building physically to make sure everything running according to plan. This feed will never be made publicly available and is here only for our own monitoring of the room.  
+Everyone hates security cameras. That said, there is a live camera feed in the space that all members have access too. This feed will never be made publicly available and is a great resource for checking in to see what is going on in the space before you head over to the room itself.   
 
-##### Access 
+##### Access
 Giving access to the space to non-members outside of Craft Night or explicitly stated events is forbidden. If you do this, you will lose your own access for the rest of the academic year. 
 
 ##### Damage  
-If you damage a piece of gear, the best thing to do is let the staff know and we’ll assess if it needs to be replaced and if you will be held responsible for the damage. 
+If you damage a piece of gear, the best thing to do is let the staff know and we’ll assess if it needs to be replaced and if you will be held responsible for the damage.
 
-If materials are damaged and unreported, we will review our footage to track down how it happened and who used the gear last.  
+If materials are damaged and unreported, we will review our security footage to track down how it happened and who used the gear last.   
 
-##### Code of Conduct 
+##### Code of Conduct
 One of the goals of the Hactchlab is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, socioeconomic status, age, level of experience, personal appearance, ethnicity, religion or philosophy.
 
 The lab is a safe space where you can express yourself without fear of judgment or harassment. All participants and visitors are expected to treat other participants, visitors, staff, and the general public with respect. Under the umbrella of respect, we expect all participants be mindful of their speech and behaviors both in person and on social media. Particularly, we want to remind participants and visitors to refrain from making assumptions about another's identity, experience, and preferred pronouns.
@@ -197,7 +196,7 @@ Examples of unacceptable behavior include the use of sexual language or imagery,
 	* Exercise consideration and respect in our speech and actions.
 	* Attempt collaboration before conflict.
 	* Be mindful of other community members.
-
+	* 
 No form of harassment or assault will be tolerated, this includes but is not limited to physical harassment, verbal harassment, and any form of sexual assault. Those who violate this policy will either be directed to leave the premises or reported to the authorities.
 
 If you feel unsafe or uncomfortable, please talk with a member of staff.  
@@ -206,16 +205,16 @@ Alert the faculty if you notice a dangerous situation, someone in distress, or v
 
 We'll treat reports as anonymous submissions, and do our best to work with everyone in private to resolve the conflict.
   
-Concerns can be privately emailed to: p.perry@gold.ac.uk 
+Concerns can be privately emailed to: hackerspace@gold.ac.uk 
 
-##### Terms of Agreement 
+##### Terms of Agreement
 This is the end of the general use agreement. By entering into this room and using these facilities, you agree to the above terms of use. This agreement will be reviewed in detail at all induction sessions for new members. 
 
 If you abject to these terms, you must notify a member of staff immediately after your induction training session. At that point, you will lose access to the room via swipe card and will only be allowed in the space during supervised classes. Additionally, all tools and resources will be off limits to you. 
 
----- -- 
+---- 
 
-## General Skills: 
+## General Skills:
 Here are some really useful things to know about as you start your hacking journey: 
 * Ohm’s Law 
 	[https://www.youtube.com/watch?v=-mHLvtGjum4][14]
@@ -230,7 +229,7 @@ Here are some really useful things to know about as you start your hacking journ
 * Kirchhoff’s Law
 	[https://www.youtube.com/watch?v=WBfAEeEzDlg][19]
 
-#### Places to buy hacking materials: 
+#### Places to buy hacking materials:
 [http://uk.rs-online.com/web/][20]
 
 [http://www.maplin.co.uk][21]
@@ -243,7 +242,7 @@ Here are some really useful things to know about as you start your hacking journ
 
 [http://uk.farnell.com/][25]
 
-#### Other resources 
+#### Other resources
 Arduino Basics 
 [https://www.youtube.com/watch?v=pnf8ojsK6S4][26]
 
@@ -272,7 +271,7 @@ Printing boards in the UK guide:
 Open Source Hardware Association 
 [http://www.oshwa.org/][34]
 
-#### Great YouTube Channels 
+#### Great YouTube Channels
 Great Scott 
 [https://www.youtube.com/user/greatscottlab][35]
 
@@ -282,11 +281,11 @@ Ada Fruit
 Make Magazine 
 [https://www.youtube.com/results?search\_query=make+magazine][37]
 
-#### Online classes 
+#### Online classes
 NYU ITP’s Physical Computing Course 
 [https://itp.nyu.edu/physcomp/][38]
 
-#### Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment or are Arduino like 
+#### Microcontrollers other than Arduino that are compatible with the Arduino Programming Environment or are Arduino like
 Teensy (Wearables, small form use cases, sound) 
 [https://www.pjrc.com/teensy/][39]
 
@@ -305,7 +304,7 @@ Photon (wifi)
 Pinoccio (mesh networking) 
 [https://pinocc.io/][44]
 
-#### Small Computing Platforms 
+#### Small Computing Platforms
 Beagle Bone
 [http://beagleboard.org/bone][45]
 
