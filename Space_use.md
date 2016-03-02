@@ -1,5 +1,7 @@
 
-# Welcome to The Goldsmiths Hackerspace!
+# Welcome to The Goldsmiths Hackerspace Space Use agreement!
+_This agreement is provisional and under department review. Changes will be shared with all members as they occur._
+
 This space serves to provide increased STEM access to the Goldsmiths Computing Students and the researchers within the Computing  Department. 
 
 As a shared space, it’s very important we set up some ground rules and user polices so this space can support the community. What follows is a list of policies and guidelines for using this space, the gear in it and how we treat each other. 
@@ -9,7 +11,7 @@ This space isn’t just a lab where you drop in and out and someone else builds 
 **Together we know more.**
 
 ## About the space:
-This room, the former GDS, is now the temporary home to The Goldsmiths Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future and it’s up to us to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of our community.  
+This room, the GDS, is now the temporary home to The Goldsmiths Hackerspace. Eventually, we will be opening a much larger facility. While construction is occurring on our final home, this space will serve as a testing ground for policies, space use and the levels of access. How this project succeeds or fails shapes the future and it’s up to us to help us define the levels of openness, access and resources we have. Together we will build an inspiring community in the Lewisham Area that highlights the creative and engineering efforts of our community.  
 
 ### Participate!
 Hours the space is available are posted on the door every week. 
@@ -19,7 +21,7 @@ Access to this space comes in two forms. Unlimited member access and non-member 
 #### Training Sessions to become a member
 Access to this space is a privilege, not a right and it can be revoked if a user violates the polices laid out for the space. 
 
-To get unsupervised access to this space and become a full member it’s very important you attend a training session. Sessions run on a twice per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatch Lab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email hackerspace@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. Groups already included in emails for induction for access to this space are: Creative Computing students, DAC students, MFA / MA students, Staff, PhD, Post Docs and Physical Computing Students. 
+To get unsupervised access to this space and become a full member it’s very important you attend a training session. Sessions run on a twice per term basis. Please attend the announced session. If you want to know when the next one runs, see the door of the Hatch Lab and keep an eye on your email. If you need access and you’re not in one of the groups with access, you can email computing@gold.ac.uk to request access. It will only be granted on a case by case basis as our support and faculty allows. Groups already included in emails for induction for access to this space are: Creative Computing students, DAC students, MFA / MA students, Staff, PhD, Post Docs and Physical Computing Students. 
 
 Membership entitles members to use the space outside of supervised class sessions. If you are in a class in this room and do not want to be a member, that is fine however you will not be allowed into the room outside of class time. 
 
