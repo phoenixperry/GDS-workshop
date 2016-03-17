@@ -1,7 +1,7 @@
 
 ## The Goldsmiths Digital Studio Hackerspace Workshop Agreement
 
-*This agreement is provisional and under department review.*
+*This agreement is provisional and under department review.
 Changes will be shared here as they occur.*
 
 This space serves to support Goldsmiths Computing Students and the researchers within the Computing Department. 
@@ -25,23 +25,10 @@ To get unsupervised access to this space and become a full member it’s very im
 
 Membership entitles members to use the space outside of supervised class sessions. If you are in a class in this room and do not want to be a member, that is fine however you will not be allowed into the room outside of class time. 
 
-#### Craft Nights  
-The first Thursday of every month from 6.15 until 8ish this space is open to our Goldsmiths Community. Computing’s resident hackers will be around hacking and sharing knowledge and everyone, including non-members, are encouraged to join and bring something awesome to work on.
-
-There will be mini-skills bootcamps, genius hackers visiting unannounced and general impromptu fun. The only way to know what’s happening is to turn up and take part. 
-
-There will be music! 
-
-There will be science! 
-
-And yes, there will be magic. 
-
-Bring snacks, bring friends and prepare to build stuff. Get over here for Craft Night! What are you waiting for? 
-
 ### Equipment Use Guidelines
-Equipment in the space is precious. Respect it. Misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. 
+Equipment in the space is precious. Respect it. Intentional misuse of gear will result in suspension of access to the space until you have been retrained the following term and possible replacement fees depending on damages. 
 
-**If you destroy a piece of gear through misuse, you will be required to replace it. **
+Are you are unsure how to use something? See below for a comprehensive list of learning resources. If you notice a fellow member not using a piece of gear correctly, it would be considerate if you help them out and inform them on proper usage. There are no new budgets to buy more gear. Everyone loses when something is damaged. 
 
 Below are guidelines for each item:
 
@@ -93,18 +80,14 @@ Below are guidelines for each item:
 
 * 3D Printing 
 
-	Wanna use the 3D Printer? Awesome! They live in the WB100 space, not this room. Now before you get started know that you are responsible for making sure it works when you are finished with it for the next user. 
+	Wanna use the 3D Printer? Awesome! They live in the WB100 space, not this room. Now before you get started know that you are responsible for making sure it works when you are finished with it for the next user. If you break the printer by misusing it, you have to fix it yourself by the end of the day or pay to have it repaired by a licensed technician of the Department of Computing’s choice.
+	To review how to print or if you get stuck check out this guide: http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials
 
-	**If you break the printer by misusing it, you have to fix it yourself by the end of the day or pay to have it repaired by a licensed technician of the Department of Computing’s choice. **
-	Only members have access to these machines. 
-	To review how to print or if you get stuck check out this guide: 
-	[http://www.makerbot.com/blog/2012/10/04/makerbot-replicator-2-video-tutorials][9]
-
-	To book a slot on the printers go here: [https://wb100digital.wordpress.com/][10]
+	To book a slot on the printers go here: https://wb100digital.wordpress.com/
 
 * Laser Cutter 
 
-	Until further notice, this piece of gear is for researchers only. Soon this will change. 
+	TBA
 
 * Jigsaw 
 
@@ -164,20 +147,17 @@ Did you have functional left over parts you will no longer need or order a bag o
 
 **If you take something, giving something of equal usefulness and value is generally a nice rule to follow.**  
 
-## Security
-  
-Everyone hates security cameras. That said, security concerns are currently being considering by the department.   
-
+##Security
+Members wil have swipe card access. 
 ##### Access
-Giving access to the space to non-members outside of Craft Night or explicitly stated events is forbidden. If you do this, you will lose your own access for the rest of the academic year. 
+Giving access to the space to non-members is forbidden. If you do this, you will lose your own access for the rest of the academic year. 
 
 ##### Damage  
-If you damage a piece of gear, the best thing to do is let the staff know and we’ll assess if it needs to be replaced and if you will be held responsible for the damage.
+If you damage a piece of gear, the best thing to do is let the staff know and we’ll assess if it needs to be replaced.
 
-If materials are damaged and unreported, we will review our security footage to track down how it happened and who used the gear last.   
 
 ##### Code of Conduct
-One of the goals of the Hactchlab is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, socioeconomic status, age, level of experience, personal appearance, ethnicity, religion or philosophy.
+One of the goals of the space is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, socioeconomic status, age, level of experience, personal appearance, ethnicity, religion or philosophy.
 
 The lab is a safe space where you can express yourself without fear of judgment or harassment. All participants and visitors are expected to treat other participants, visitors, staff, and the general public with respect. Under the umbrella of respect, we expect all participants be mindful of their speech and behaviors both in person and on social media. Particularly, we want to remind participants and visitors to refrain from making assumptions about another's identity, experience, and preferred pronouns.
 
@@ -225,8 +205,6 @@ Here are some really useful things to know about as you start your hacking journ
 [http://www.maplin.co.uk][19]
 
 [http://rapidonline.com][20]
-
-[http://www.gearbest.com][21]
   
 [http://oomlout.co.uk/][22]
 
